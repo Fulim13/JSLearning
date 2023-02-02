@@ -1,3 +1,11 @@
 1. intro.md
 2. variable.js
 3. datatype.js
+4. string_template_literlas.js
+5. if_else.js
+6. type_conversion_coercion.js
+7. expression_statement.js
+8. fucntion.js
+9. array.js
+10. object.js
+11. loop.js
