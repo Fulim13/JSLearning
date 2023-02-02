@@ -19,8 +19,8 @@ if (now - birthYear >= 18 && havingDriverLisence) {
   }
 }
 
-// use === stict equality operator
-// == loose type
+// use === stict equality operator , !==
+// == loose type , !=
 
 let age = 18;
 let age1 = "18";
