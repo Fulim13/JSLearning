@@ -35,3 +35,19 @@ console.log(children); // undefined
 
 // MULTI LINE COMMENT
 // /* */  -> ALT SHIFT A
+
+// LET VS CONST VS VAR
+// by default use const
+// use let when you sure it is changing
+// var should avoid - function scope
+
+// LET
+let luckyNumber = 30;
+luckyNumber = 31; //can reassign
+let luckyNumber1; // can assign empty value
+
+// COSNT
+const birthYear = 2002;
+birthYear = 2003;
+// console.log(birthYear); // cannot reassing
+// const year; // cannot assign empty value
